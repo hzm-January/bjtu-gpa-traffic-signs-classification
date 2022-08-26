@@ -1,0 +1,208 @@
+batch_size: 64
+epochs: 50
+lr: 0.001
+gamma: 0.1
+seed: 42
+using cuda:0 device.
+Train Data: 6024
+Batch Number: 95
+Adjusting learning rate of group 0 to 1.0000e-03.
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 1 - loss : 1.5078 - acc: 0.5280 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 2 - loss : 1.2250 - acc: 0.6026 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 3 - loss : 1.1461 - acc: 0.6153 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 4 - loss : 1.0474 - acc: 0.6400 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 5 - loss : 1.0118 - acc: 0.6574 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 6 - loss : 0.9424 - acc: 0.6742 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 7 - loss : 0.9802 - acc: 0.6707 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 8 - loss : 0.9356 - acc: 0.6812 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 9 - loss : 0.9206 - acc: 0.6783 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 10 - loss : 0.9100 - acc: 0.6882 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 11 - loss : 0.9262 - acc: 0.6868 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 12 - loss : 0.9076 - acc: 0.6900 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 13 - loss : 0.8653 - acc: 0.7076 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 14 - loss : 0.8590 - acc: 0.7049 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 15 - loss : 0.8460 - acc: 0.7086 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 16 - loss : 0.8564 - acc: 0.7109 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 17 - loss : 0.8254 - acc: 0.7204 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 18 - loss : 0.8123 - acc: 0.7271 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 19 - loss : 0.8163 - acc: 0.7301 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 20 - loss : 0.8061 - acc: 0.7227 - lr: 0.001
+
+100% 95/95 [01:59<00:00,  1.26s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 21 - loss : 0.7853 - acc: 0.7296 - lr: 0.001
+
+100% 95/95 [01:58<00:00,  1.25s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 22 - loss : 0.7877 - acc: 0.7288 - lr: 0.001
+
+100% 95/95 [02:00<00:00,  1.27s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 23 - loss : 0.7748 - acc: 0.7410 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 24 - loss : 0.7613 - acc: 0.7414 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 25 - loss : 0.7735 - acc: 0.7367 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 26 - loss : 0.7874 - acc: 0.7304 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 27 - loss : 0.7804 - acc: 0.7332 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 28 - loss : 0.7524 - acc: 0.7408 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 29 - loss : 0.7496 - acc: 0.7428 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 30 - loss : 0.7324 - acc: 0.7516 - lr: 0.001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 31 - loss : 0.7353 - acc: 0.7543 - lr: 0.001
+
+100% 95/95 [02:04<00:00,  1.31s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 32 - loss : 0.7584 - acc: 0.7434 - lr: 0.001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 33 - loss : 0.7334 - acc: 0.7470 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 34 - loss : 0.7170 - acc: 0.7589 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 35 - loss : 0.7391 - acc: 0.7461 - lr: 0.001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 36 - loss : 0.7404 - acc: 0.7500 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 37 - loss : 0.6944 - acc: 0.7604 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 38 - loss : 0.7143 - acc: 0.7592 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-03.
+Epoch : 39 - loss : 0.6789 - acc: 0.7742 - lr: 0.001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 40 - loss : 0.6887 - acc: 0.7668 - lr: 0.0001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 41 - loss : 0.6327 - acc: 0.7865 - lr: 0.0001
+
+100% 95/95 [02:01<00:00,  1.28s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 42 - loss : 0.6261 - acc: 0.7845 - lr: 0.0001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 43 - loss : 0.6338 - acc: 0.7862 - lr: 0.0001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 44 - loss : 0.6189 - acc: 0.7883 - lr: 0.0001
+
+100% 95/95 [02:04<00:00,  1.31s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 45 - loss : 0.6123 - acc: 0.7942 - lr: 0.0001
+
+100% 95/95 [02:04<00:00,  1.31s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 46 - loss : 0.6079 - acc: 0.7913 - lr: 0.0001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 47 - loss : 0.6048 - acc: 0.7939 - lr: 0.0001
+
+100% 95/95 [02:02<00:00,  1.29s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 48 - loss : 0.5783 - acc: 0.7987 - lr: 0.0001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 49 - loss : 0.5841 - acc: 0.7997 - lr: 0.0001
+
+100% 95/95 [02:03<00:00,  1.30s/it]
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch : 50 - loss : 0.5754 - acc: 0.8036 - lr: 0.0001
